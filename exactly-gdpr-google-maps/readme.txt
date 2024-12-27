@@ -2,8 +2,8 @@
 Contributors: exovia, exactlywebdesign
 Tags: GDPR, DSGVO, Maps, Google Maps
 Requires at least: 5.6
-Tested up to: 6.6
-Stable tag: 1.0.14
+Tested up to: 6.7
+Stable tag: 1.0.15
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -120,8 +120,14 @@ Just use the extra for shortcodes provided Gutenberg block, which is included by
 9. this is how your placeholder might look on small displays
 10. mobile view of your map - now after user approval and connection to Google.
 
-== Change log ==
+== Upgrade Notice ==
+= 1.0.15 =
+This update ensures compatibility with WordPress 6.7 and improves stability.
 
+== Change log ==
+= 1.0.15 =
+* Updated 'Tested up to' to WordPress 6.7
+* Version bump to 1.0.15
 = 1.0.14 =
 * Updated 'Tested up to' to WordPress 6.6
 * Minor adjustments and improvements to ensure compatibility with the latest WordPress version

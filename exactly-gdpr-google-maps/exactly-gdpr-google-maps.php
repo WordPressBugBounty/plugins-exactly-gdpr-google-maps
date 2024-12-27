@@ -5,7 +5,7 @@
  * Plugin Name: exovia GDPR Google Maps
  * Plugin URI:  https://wordpress.org/plugins/exactly-gdpr-google-maps/
  * Description: The easy way to integrate Google Maps GDPR in compliance with data protection. The Google Maps only load when the user has agreed with a click. Just use the shortcut after setup: [exactly-gdpr-map]
- * Version:     1.0.14
+ * Version:     1.0.15
  * Author:      exovia
  * Author URI:  https://www.exovia.de/
  * License:     GPLv2 or later
@@ -24,7 +24,7 @@
 /**
  * Definitions
  */
-define( 'EXGGMAP_VERSION', '1.0.14' );
+define( 'EXGGMAP_VERSION', '1.0.15' );
 
 define( 'EXGGMAP_PLUGIN', __FILE__ );
 
